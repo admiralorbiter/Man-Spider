@@ -1,0 +1,54 @@
+2024-10-09 17:27:40 UTC
+Windows-10-10.0.22631
+Ren'Py 8.3.2.24090902
+
+Early init took 0.13s
+Loading error handling took 0.10s
+Loading script took 0.26s
+Loading save slot metadata took 0.07s
+Loading persistent took 0.00s
+INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.06s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\admir/RenPy/ManSpider-1728490046\\Man Spider':
+Dump and make backups took 0.00s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+INFO:renpy_warp_service:connected to renpy warp socket server on :40111
+nvdrs: b'DRS_SaveSettings() = -175.' (can be ignored)
+Creating interface object took 0.22s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.03s
+Prepare screens took 0.11s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.05s
+Running _start took 0.00s
+Interface start took 0.13s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2400, 1600)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3050 Ti Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2298, 1293) drawable=(2298, 1293)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.07s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
